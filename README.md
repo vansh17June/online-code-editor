@@ -47,8 +47,8 @@ To run Orbit Editor locally on your machine, follow these steps:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/edgecutioninst/Orbit.git
-cd Orbit
+git clone https://github.com/vansh17June/online-code-editor
+cd online-code-editor
 ```
 
 **2. Install dependencies**
